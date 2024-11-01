@@ -11,7 +11,7 @@
 🌱 &nbsp;I am on my way to learn more about web design and development, mechanical design and modeling, and industrial automation.\
 ✍️ &nbsp;In my spare time, I dedicate my time to the design and layout of interactive pages and development of administrative applications.\
 💬 &nbsp;Feel free to contact me for collaborations and fun side projects, or just to have an interesting conversation.\
-✉️ &nbsp;You can shoot me an email at alanjafet117@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at alanjafet117@gmail.com! I'll try to respond as soon as I can.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
