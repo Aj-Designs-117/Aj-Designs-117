@@ -74,6 +74,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/alan_jafet_117/"><img src="https://img.shields.io/badge/-AlanJafet-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/jafet_118/"><img src="https://img.shields.io/badge/-AlanJafet-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/DevAj117"><img src="https://img.shields.io/badge/-AlanJafet-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
