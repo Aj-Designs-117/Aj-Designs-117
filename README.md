@@ -1,4 +1,5 @@
-![HOME-GITHUB](https://github.com/user-attachments/assets/c1c6c178-b237-4f09-a317-93ab78c544cf)
+
+<img alt="Night Coding" src="https://github.com/user-attachments/assets/c1c6c178-b237-4f09-a317-93ab78c544cf" width='40' align="left"/>
 <h2 align="left">Hey there! I'm Alan Jafet</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Alan Jafet -->
