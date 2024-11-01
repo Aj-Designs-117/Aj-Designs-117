@@ -59,16 +59,16 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/Aj-Designs-117">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aj-Designs-117&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AJ&Designs&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/Aj-Designs-117">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aj-Designs-117&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AJ&Designs&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aj-Designs-117&theme=dark&hide_border=true"/>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
